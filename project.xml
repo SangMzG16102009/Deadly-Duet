@@ -143,7 +143,7 @@
 	<haxedef name="NDLLS_SUPPORTED" unless="web || iphonesim || hl" />
 
 	<!-- Comment this out to disable support for Away3D Flixel Intergration (reduces compile times)-->
-	<define name="THREE_D_SUPPORT" />
+	<!--<define name="THREE_D_SUPPORT" /-->
 
 	<!-- Comment this out to disable support for Nape integration (flixel.addons.nape) (reduces compile times) !-->
 	<define name="NAPE_ENABLED" />
